@@ -1,0 +1,27 @@
+# STS(eclipse) project files #
+##############################
+.settings/
+.classpath
+.project
+
+# Compiled class files #
+########################
+/bin/
+/target
+
+# Package Files #
+#################
+*.jar
+*.war
+*.ear
+*.db
+
+# Logs #
+########
+/log/*
+*.log
+
+# WinMerge .bak files #
+#######################
+*.bak
+
